@@ -18,3 +18,4 @@ This project also provides an interactive experience for the user in the termina
 ### Credits
 This project make use of libraries including Numpy and Panda.
 This project is realistic with the proper documentation and lecture materials from Udacity
+This project also uses DateTime library
